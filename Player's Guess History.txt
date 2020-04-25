@@ -1,0 +1,142 @@
+			Player's Guess History
+
+
+
+
+
+HOI guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+BLACK   BLACK   GREEN   BLACK   
+BLACK   GREEN   BLACK   BLACK   
+GREEN   BLACK   BLACK   BLACK   
+GREEN   GREEN   GREEN   GREEN   
+- - - - - - - - - - - - - - - - - - - 
+
+SAYA guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+BLUE    BLUE    CYAN    CYAN    
+BLUE    BLUE    BLUE    BLUE    
+- - - - - - - - - - - - - - - - - - - 
+
+EG's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+ERROR   ERROR   ERROR   ERROR   
+- - - - - - - - - - - - - - - - - - - 
+
+A's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+9       9       9       9       
+RED     RED     RED     RED     
+- - - - - - - - - - - - - - - - - - - 
+
+AIDI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+RED     RED     RED     RED     
+- - - - - - - - - - - - - - - - - - - 
+
+DODOL's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+9       9       9       9       
+YELLOW  WHITE   YELLOW  YELLOW  
+YELLOW  YELLOW  WHITE   WHITE   
+YELLOW  YELLOW  YELLOW  YELLOW  
+- - - - - - - - - - - - - - - - - - - 
+
+SEGW's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+BLACK   BLACK   RED     BLACK   
+BLACK   RED     BLACK   BLACK   
+RED     BLACK   BLACK   BLACK   
+RED     RED     RED     RED     
+- - - - - - - - - - - - - - - - - - - 
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+9       9       9       9       
+- - - - - - - - - - - - - - - - - - - 
+
+
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+O       O       O       O       
+O       O       O       O       
+9       9       9       9       
+- - - - - - - - - - - - - - - - - - - 
+
+
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+BLACK   RED     RED     CYAN    
+CYAN    RED     RED     BLACK   
+RED     CYAN    BLACK   RED     
+RED     RED     BLACK   GREEN   
+RED     CYAN    RED     GREEN   
+RED     CYAN    BLACK   GREEN   
+- - - - - - - - - - - - - - - - - - - 
+
+
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+O       O       O       O       
+9       9       9       9       
+- - - - - - - - - - - - - - - - - - - 
+
+
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+BLACK   RED     BLACK   BLACK   
+RED     RED     RED     RED     
+- - - - - - - - - - - - - - - - - - - 
+
+
+
+ZIKRI's guess:
+
+- - - - - - - - - - - - - - - - - - - 
+O       O       O       O       
+9       9       9       9       
+PURPLE  BLACK   YELLOW  RED     
+- - - - - - - - - - - - - - - - - - - 
+
+
+
